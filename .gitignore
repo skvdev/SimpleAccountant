@@ -1,13 +1,10 @@
 *.iml
-.gradle
 /local.properties
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .idea/
-app/
-build.gradle
 gradle.properties
 gradle/
 gradlew
@@ -15,3 +12,5 @@ gradlew.bat
 keystore.properties
 settings.gradle
 skv.keystore
+/app/build/
+.gradle
