@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="plot_left_padding">8dp</dimen>
+    <dimen name="plot_right_padding">8dp</dimen>
+    <dimen name="plot_top_padding">8dp</dimen>
+    <dimen name="plot_bottom_padding">8dp</dimen>
+    <dimen name="corner_path_radius">20dp</dimen>
+    <dimen name="stroke_width">20dp</dimen>
+    <dimen name="grid_stroke_width">1px</dimen>
+    <dimen name="grid_text_size">15sp</dimen>
+    <item name="plot_min" format="float" type="dimen">1.0</item>
+    <item name="plot_max" format="float" type="dimen">1.0</item>
+    <item name="grid_lines" format="integer" type="integer">1</item>
+</resources>

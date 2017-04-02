@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_color_main">#f2f4f7</color>
+    <color name="line_color">#3c6bb1</color>
+    <color name="grid_line_color">#eaeaea</color>
+    <color name="grid_text_color">#bababa</color>
+</resources>

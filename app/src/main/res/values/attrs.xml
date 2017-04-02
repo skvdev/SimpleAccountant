@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlotView">
+        <attr name="padding" format="dimension" />
+        <attr name="left_padding" format="dimension" />
+        <attr name="right_padding" format="dimension" />
+        <attr name="top_padding" format="dimension" />
+        <attr name="bottom_padding" format="dimension" />
+        <attr name="stroke_width" format="dimension" />
+        <attr name="corner_path_radius" format="dimension" />
+        <attr name="line_color" format="color" />
+        <attr name="grid_line_color" format="color" />
+        <attr name="min" format="float" />
+        <attr name="max" format="float" />
+        <attr name="grid_lines" format="integer" />
+    </declare-styleable>
+</resources>
